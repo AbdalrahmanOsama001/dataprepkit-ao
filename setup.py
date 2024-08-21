@@ -11,7 +11,7 @@ setuptools.setup(
     description="A streamlined data preprocessing toolkit for machine learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/dataprepkit-ao",  
+    url="https://https://github.com/AbdalrahmanOsama001/dataprepkit-ao",  
     packages=setuptools.find_packages(),  
     classifiers=[
         "Programming Language :: Python :: 3",
