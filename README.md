@@ -30,7 +30,7 @@
 ## Installation
 
 ```bash
-pip install pandas numpy scikit-learn
+pip install dataprepkit-ao
 ```
 
 ## Usage
